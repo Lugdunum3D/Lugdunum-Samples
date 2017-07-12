@@ -5,3 +5,4 @@ project(samples)
 
 add_subdirectory(sample_base)
 add_subdirectory(sample_01)
+add_subdirectory(sample_02)
